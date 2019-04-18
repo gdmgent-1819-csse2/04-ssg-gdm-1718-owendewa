@@ -1,6 +1,6 @@
 # Documentation_CSSE2
 
-> My striking Nuxt.js project
+> My epic Nuxt.js project
 
 ## Build Setup
 
