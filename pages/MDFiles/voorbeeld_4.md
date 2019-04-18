@@ -1,4 +1,4 @@
-# Using vectors in our UpdateCanvasHandler.js
+# Using vectors in our UpdateCanvasHandler method in Canvas.js
 
 **Creating a vector**
 
@@ -17,7 +17,7 @@ export default class Vector2{
     }
 ```
 
-**Usage in our UpdateCanvasHandler.js file**
+**Usage in our UpdateCanvasHandler method in Canvas.js**
 
 This is our basic UpdateCanvasHandler method because of our loop of .5 seconds in our Canvas class this method will be executed every .5 seconds
 

@@ -5,6 +5,8 @@
 Now this class will be a complete constructor wich we can then use to create our canvas element in our index.html.
 We will be using our width, height and shaderSources as parameters we will create three variables who have the value of our parameters
 ```js
+import Vector2 from './Math/Vector2.js'
+
 export default class Canvas {
         constructor(width, height, shaderSources) {
             this.width = width
