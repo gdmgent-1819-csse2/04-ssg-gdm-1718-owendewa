@@ -3,7 +3,7 @@
 
 </template>
 <script>
-  import vb2 from './MDFiles/voorbeeld_2.md'
+  import vb2 from './MDFiles/voorbeeld_2.md' 
 
 export default {
   computed: {
